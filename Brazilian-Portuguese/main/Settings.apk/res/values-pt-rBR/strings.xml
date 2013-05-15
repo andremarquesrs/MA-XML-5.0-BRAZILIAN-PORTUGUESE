@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_settings">About phone</string>
-  <string name="about_settings_summary">View legal info, status, software version</string>
-  <string name="ac_enable_title">Access control</string>
-  <string name="ac_privacy_mode_sum">Input access control password to cancel guarded mode</string>
-  <string name="ac_privacy_mode_title">Enable password</string>
-  <string name="ac_set_apps_title">Protect applications</string>
+  <string name="about_settings">Sobre o dispositivo</string>
+  <string name="about_settings_summary">Ver informações legais, status, versão do software</string>
+  <string name="ac_enable_title">Conrole de Acesso</string>
+  <string name="ac_privacy_mode_sum">Introduza a senha para desativar o Controle de acesso.</string>
+  <string name="ac_privacy_mode_title">Ativar Senha</string>
+  <string name="ac_set_apps_title">Controle de acesso</string>
   <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
   <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
   <string name="accelerometer_title">Auto-rotate screen</string>
