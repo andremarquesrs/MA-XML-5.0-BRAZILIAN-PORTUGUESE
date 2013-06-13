@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_of_traffic">
-        <item>Traffic yesterday</item>
-        <item>Traffic today</item>
-        <item>Traffic this month</item>
+        <item>Uso de dados de ontem</item>
+        <item>Uso de dados hoje</item>
+        <item>Uso de dados do mês</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Yesterday on 2G/3G</item>
-        <item>Today on 2G/3G</item>
-        <item>This month on 2G/3G</item>
-        <item>Yesterday on Wi-Fi</item>
-        <item>Today on Wi-fi</item>
-        <item>This month on Wi-Fi</item>
+        <item>2G/3G Ontem</item>
+        <item>2G/3G Hoje</item>
+        <item>2G/3G Este mês</item>
+        <item>WiFi Ontem</item>
+        <item>WiFi Hoje</item>
+        <item>WiFi Este mês</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Yesterday 2G/3G</item>
-        <item>Today 2G/3G</item>
-        <item>This month 2G/3G</item>
-    </string-array>
-    <string-array name="traffic_uints">
-        <item>" B"</item>
-        <item>KB</item>
-        <item>MB</item>
-        <item>GB</item>
+        <item>2G/3G Ontem</item>
+        <item>2G/3G Hoje</item>
+        <item>2G/3G Este mês</item>
     </string-array>
     <string-array name="network_speed_update_internals">
         <item>3s</item>
@@ -33,14 +27,4 @@
         <item>8s</item>
         <item>9s</item>
     </string-array>
-    <string-array name="network_speed_update_internal_values">
-        <item>3000</item>
-        <item>4000</item>
-        <item>5000</item>
-        <item>6000</item>
-        <item>7000</item>
-        <item>8000</item>
-        <item>9000</item>
-    </string-array>
 </resources>
-
