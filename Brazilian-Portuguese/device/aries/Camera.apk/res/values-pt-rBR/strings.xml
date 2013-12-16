@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="camera_error_title">Erro de câmera</string>
-    <string name="cannot_connect_camera">Não é possível conectar a câmera, reinicie a câmera.</string>
+    <string name="cannot_connect_camera">Não e possível conectar a câmera, reinicie a câmera.</string>
     <string name="cannot_connect_camera_twice">"Não é possível conectar a câmera, reinicie o telefone"</string>
     <string name="camera_disabled">A câmera foi desativada devido às políticas de segurança.</string>
     <string name="camera_label">Câmera</string>
